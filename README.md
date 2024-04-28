@@ -9,7 +9,7 @@ The purpose of **Hello Skyy** is To provide a central hub, on decentralized infr
 
 # Skyy-Net
 
-**Skyy-Net** is a community driven open source non profit project that attempts to provide anyone with AI tools to interpret medical imaging. This is the AI or model portion of the project. The web application that utilizes the models trained here is called Skyy-Med and is another public repository under Hello Skyy. 
+**Skyy-Net** is a community driven, open source, non profit project, that provides distributed AI designed to run on decentralized infrastructure. We are currently using computer vision models to interpret medical imaging as part of the Skyy-Med project/application. This is the AI or model portion of the project. The web application that utilizes the models trained here is called Skyy-Med and is another public repository under Hello Skyy. [HelloSkyy Skyy-Med](https://github.com/helloskyy-io/Skyy-Med).
 
 ## Features
 
