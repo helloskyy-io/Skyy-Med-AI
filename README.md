@@ -49,5 +49,6 @@ bash <(curl -s https://raw.githubusercontent.com/helloskyy-io/FluxEdge-AI-Toolbo
 After the initial installation of FluxEdge AI Toolbox, rerun the FluxEdge AI Toolbox and configure the project and dataset on your server, use the following command:
 
 ```bash
-ansible-playbook -i localhost, -c local /FluxEdge_AI_Toolbox/ansible/playbooks/AI_Toolbox.yml
+ANSIBLE_CONFIG=/FluxEdge_AI_Toolbox/ansible/ansible.cfg ansible-playbook -i localhost, -c local /FluxEdge_AI_Toolbox/ansible/playbooks/AI_Toolbox.yml
+
 ```
